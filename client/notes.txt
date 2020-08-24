@@ -1,0 +1,28 @@
+rcc : react component class
+
+import React, { Component } from 'react'
+
+export default class profile extends Component {
+  render() {
+    return (
+      <div>
+        <h1></h1>
+      </div>
+    )
+  }
+}
+
+
+rfc : react component function
+
+import React from 'react'
+
+export default function profile() {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+Maj + alt + flèche bas/haut pour dupliquer
